@@ -1,4 +1,4 @@
-import streamlit as st
+
 import tkinter as tk
 
 root = tk.Tk()  # Main box window
